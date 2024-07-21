@@ -46,7 +46,7 @@ export const Button = ({
         )}
         {...props}
       >
-        {label}fsdafsf
+        {label} click here
         <style jsx>{`
           button {
             background-color: ${backgroundColor};
